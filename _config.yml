@@ -1,14 +1,11 @@
 # Site settings
 title: The Deeds of a Man in His Prime
 subtitle: Badhiya hai
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
     Old writings from the yesteryears, almost lost to the sands of time
     but recovered by the mystical powers of Jekyll, now served without restraint.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: prat_l
-github_username:  lut4rp
+baseurl: "/freezing-hipster"
+url: "http://old.pratul.in"
 
 # Build settings
 markdown: kramdown
